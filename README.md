@@ -1,4 +1,4 @@
-# kimiafarma
+# Kimia Farma
 
 Repository ini berisi syntax BigQuery yang dibuat untuk kebutuhan analisis data.
 
