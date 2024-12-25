@@ -17,11 +17,11 @@ Repository ini berisi syntax BigQuery yang dibuat untuk kebutuhan analisis data.
 11. actual_price : harga obat,
 12. discount_percentage : Persentase diskon yang diberikan pada obat,
 13. persentase_gross_laba : Persentase laba yang seharusnya diterima dari obat dengan ketentuan berikut:
-     ■ Harga <= Rp 50.000 -> laba 10%
-     ■ Harga > Rp 50.000 - 100.000 -> laba 15%
-     ■ Harga > Rp 100.000 - 300.000 -> laba 20%
-     ■ Harga > Rp 300.000 - 500.000 -> laba 25%
-     ■ Harga > Rp 500.000 -> laba 30%,
+     a.     Harga <= Rp 50.000 -> laba 10%
+     b.     Harga > Rp 50.000 - 100.000 -> laba 15%
+     c.     Harga > Rp 100.000 - 300.000 -> laba 20%
+     d.     Harga > Rp 300.000 - 500.000 -> laba 25%
+     e.     Harga > Rp 500.000 -> laba 30%,
 14.  nett_sales : harga setelah diskon,
 15.  nett_profit : keuntungan yang diperoleh Kimia Farma,
 16.  rating_transaksi : penilaian konsumen terhadap transaksi yang dilakukan.
