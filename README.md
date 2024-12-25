@@ -4,8 +4,8 @@ Repository ini berisi syntax BigQuery yang dibuat untuk kebutuhan analisis data.
 
 ## Daftar File
 - **query_kf_analisis_kinerja_bisnis.sql**: Menampilkan data analisis sesuai pada challange mengevaluasi kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023.
-  ● transaction_id : kode id transaksi, 
-  ● date : tanggal transaksi dilakukan, 
+● transaction_id : kode id transaksi, 
+● date : tanggal transaksi dilakukan, 
   ● branch_id : kode id cabang Kimia Farma, 
   ● branch_name : nama cabang Kimia Farma, 
   ● kota : kota cabang Kimia Farma, 
